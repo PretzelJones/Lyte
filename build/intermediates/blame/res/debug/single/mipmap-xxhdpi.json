@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/elementary/Projects/AndroidProjects/Lyte/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/elementary/Projects/AndroidProjects/Lyte/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

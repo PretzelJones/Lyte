@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/elementary/.android/build-cache/a56525f095dc264f8ddd16e09b7aa8ddd7143137/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/elementary/.android/build-cache/a56525f095dc264f8ddd16e09b7aa8ddd7143137/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/elementary/.android/build-cache/a56525f095dc264f8ddd16e09b7aa8ddd7143137/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/elementary/.android/build-cache/5e6d9162cda577ad406530710dd8e4689ae356d6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/elementary/.android/build-cache/5e6d9162cda577ad406530710dd8e4689ae356d6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/elementary/.android/build-cache/a56525f095dc264f8ddd16e09b7aa8ddd7143137/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/elementary/.android/build-cache/5e6d9162cda577ad406530710dd8e4689ae356d6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/elementary/.android/build-cache/5e6d9162cda577ad406530710dd8e4689ae356d6/output/res/drawable-v21/notification_action_background.xml"
+    }
+]

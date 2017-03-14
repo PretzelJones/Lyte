@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/elementary/.android/build-cache/a56525f095dc264f8ddd16e09b7aa8ddd7143137/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/elementary/.android/build-cache/a56525f095dc264f8ddd16e09b7aa8ddd7143137/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

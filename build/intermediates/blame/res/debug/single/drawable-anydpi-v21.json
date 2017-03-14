@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/elementary/.android/build-cache/a56525f095dc264f8ddd16e09b7aa8ddd7143137/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/elementary/Projects/AndroidProjects/Lyte/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/elementary/.android/build-cache/a56525f095dc264f8ddd16e09b7aa8ddd7143137/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]
